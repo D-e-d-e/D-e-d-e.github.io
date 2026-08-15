@@ -1,0 +1,8 @@
+baseURL = 'https://D-e-d-e.github.io/'
+languageCode = 'en-us'
+title = 'Pwn & Dev Blog'
+theme = 'terminal'
+
+[params]
+  themeColor = 'green'
+  showIcons = true
