@@ -6,3 +6,8 @@ theme = 'terminal'
 [params]
   themeColor = 'green'
   showIcons = true
+  readMore = "Read more"
+
+[params.logo]
+  logoText = "dede:~#"
+  logoHomeLink = "/"
